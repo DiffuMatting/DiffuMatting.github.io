@@ -135,6 +135,13 @@ body {
 .custom-title {
   color: #007c00; /* 替换 "#ff0000" 为你想要的颜色 */
 }
+.hero2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  text-align: center;
+}
 
 
 
