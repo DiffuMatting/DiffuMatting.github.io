@@ -132,6 +132,9 @@ body {
 .eql-cntrb { 
   font-size: smaller;
 }
+.custom-title {
+  color: (0,124,0); /* 替换 "#ff0000" 为你想要的颜色 */
+}
 
 
 
