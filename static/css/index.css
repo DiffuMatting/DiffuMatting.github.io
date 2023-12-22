@@ -157,6 +157,13 @@ body {
   background-color: rgb(255, 255, 255);
   margin: 0 auto 20px;
 }
+.divider {
+  width: 50%;
+  height: 2px;
+  background-color: lightgray;
+  margin: 0 auto 20px;
+}
+
 
 
 
