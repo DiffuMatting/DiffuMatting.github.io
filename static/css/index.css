@@ -142,6 +142,19 @@ body {
   margin-bottom: 20px;
   text-align: center;
 }
+.hero1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.divider1 {
+  width: 50%;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  margin: 0 auto 20px;
+}
 
 
 
