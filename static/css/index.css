@@ -50,7 +50,9 @@ body {
 .publication-title {
     font-family: 'Google Sans', sans-serif;
 }
-
+.title {
+  text-align: center; /* Center the text */
+}
 .publication-authors {
     font-family: 'Google Sans', sans-serif;
 }
